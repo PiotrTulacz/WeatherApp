@@ -11,8 +11,8 @@ function setQuery(evt){
     if(evt.keyCode === 13){
         getResults(searchbox.value);
 
-        document.body.style.backgroundImage =
-            "url('https://source.unsplash.com/1600x900/?" + searchbox + "')";
+    //    document.body.style.backgroundImage =
+      //      "url('https://source.unsplash.com/1600x900/?" + searchbox + "')";
     }
 }
 

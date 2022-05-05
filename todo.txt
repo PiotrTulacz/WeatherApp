@@ -1,0 +1,2 @@
+Swap the placeholder location with ip geolocation 
+Changing background depending on what you type
